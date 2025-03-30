@@ -15,6 +15,12 @@
 📷 **Instagram:** [Your Instagram Handle]  
 🎥 **YouTube:** [Your YouTube Channel]  
 
+## Schedule a Call
+📅 **Google Calendar:** [Your Google Calendar Link]  
+📆 **Book a Call (Calendly):** [Your Calendly Link]  
+📹 **Zoom Meeting:** [Your Zoom Meeting Link]  
+🎥 **Google Meet:** [Your Google Meet Link]  
+
 ---
 ### Get in Touch
 For consulting, research collaboration, or intelligence-based solutions, reach out via your preferred channel. Let’s unlock new possibilities.
