@@ -1,3 +1,8 @@
+# Extended Computer-Brain Analogical Framework
+
+## Flowchart Diagram
+
+```mermaid
 flowchart TD
     %% Main systems
     COMP[Computer System] --> MB[Motherboard]
