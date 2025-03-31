@@ -15,6 +15,7 @@
 📷 **Instagram:** [https://www.instagram.com/nulnulseven/]  
 🎥 **YouTube:** [https://www.youtube.com/@NulNulSeven]  
 
+
 ## Schedule a Call
 📅 **Google Calendar:** [https://calendar.google.com/calendar/u/2?cid=bnVsbnVsc2V2ZW5AbWFpbGZlbmNlLmNvbQ]
 
@@ -27,6 +28,8 @@
 🎥 **Google Meet:** [[Your Google Meet Link](https://meet.google.com/osx-nsjw-qcx)]
 
 🎥 **WhatsApp:** [https://whatsapp.com/channel/0029VaeFqL9J3juyhHPSbl3u]
+
+📹 **Discord** [https://discord.gg/wwUTw2hn]
 
 ---
 ### Get in Touch
