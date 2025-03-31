@@ -23,5 +23,3 @@ True intelligence is not just about data—it’s about *knowing where to look*.
 I operate in the shadows but build in the open. If you’re ready to push boundaries, let’s connect.
 
 ---
-**📧 Contact:** [Contact Links.md]
-**📂 Projects & Research:** [Your GitHub Repository Links]
