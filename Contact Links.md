@@ -7,7 +7,7 @@
 🔗 **LinkedIn:** [Your LinkedIn Profile Link]  
 
 ## Secure Channels
-🔐 **PGP Key:** [https://mailfence.com/private/docs/nulnulseven/Jon_Dee_%3Cnulnulseven%40mailfence.com%3E_revocation.asc]  
+🔐 **PGP Key:** [https://mega.nz/file/79YTWSZR#E2a3WXjRyJRL91aAacoZsVFPotVEGKdhwJZ6Iay6bFY]  
 📞 **Encrypted Chat:** [Your Preferred Secure Messaging Platform]  
 
 ## Social Presence
