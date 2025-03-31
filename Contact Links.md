@@ -26,6 +26,8 @@
 
 🎥 **Google Meet:** [[Your Google Meet Link](https://meet.google.com/osx-nsjw-qcx)]
 
+🎥 **WhatsApp:** [https://whatsapp.com/channel/0029VaeFqL9J3juyhHPSbl3u]
+
 ---
 ### Get in Touch
 For consulting, research collaboration, or intelligence-based solutions, reach out via your preferred channel. Let’s unlock new possibilities.
