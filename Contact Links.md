@@ -1,25 +1,25 @@
 # Contact Agent NN7
 
 ## Direct Contact
-📧 **Email:** [Your Email Address]  
+📧 **Email:** [nulnulseven@mailfence.com]  
 🌐 **Website:** [Your Website URL]  
-📡 **GitHub:** [Your GitHub Profile Link]  
+📡 **GitHub:** [https://github.com/NulNulSeven]  
 🔗 **LinkedIn:** [Your LinkedIn Profile Link]  
 
 ## Secure Channels
-🔐 **PGP Key:** [Your PGP Public Key]  
+🔐 **PGP Key:** [https://mailfence.com/private/docs/nulnulseven/Jon_Dee_%3Cnulnulseven%40mailfence.com%3E_revocation.asc]  
 📞 **Encrypted Chat:** [Your Preferred Secure Messaging Platform]  
 
 ## Social Presence
-🐦 **Twitter/X:** [Your Twitter Handle]  
+🐦 **Twitter/X:** [https://x.com/NulNulSeven]  
 📷 **Instagram:** [Your Instagram Handle]  
-🎥 **YouTube:** [Your YouTube Channel]  
+🎥 **YouTube:** [https://www.youtube.com/@NulNulSeven]  
 
 ## Schedule a Call
-📅 **Google Calendar:** [Your Google Calendar Link]  
-📆 **Book a Call (Calendly):** [Your Calendly Link]  
-📹 **Zoom Meeting:** [Your Zoom Meeting Link]  
-🎥 **Google Meet:** [Your Google Meet Link]  
+📅 **Google Calendar:** [https://calendar.google.com/calendar/u/2?cid=bnVsbnVsc2V2ZW5AbWFpbGZlbmNlLmNvbQ]  
+📆 **Book a Call (Calendly):** [https://calendly.com/branecode/s-roberts]  
+📹 **Zoom Meeting:** [https://us05web.zoom.us/j/6701000210?pwd=XJxpWM205p17DBzL1AIfERvrhkD9rM.1]  
+🎥 **Google Meet:** [[Your Google Meet Link](https://meet.google.com/osx-nsjw-qcx)]  
 
 ---
 ### Get in Touch
