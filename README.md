@@ -23,6 +23,7 @@ True intelligence is not just about data—it’s about *knowing where to look*.
 
 ## 📡 Enter the Network
 I operate in the shadows but build in the open. If you’re ready to push boundaries, let’s connect.
-Contact Page - [https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20Links.md]
+
+## Contact Page - [https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20Links.md]
 
 ---
