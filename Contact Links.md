@@ -17,9 +17,13 @@
 
 ## Schedule a Call
 📅 **Google Calendar:** [https://calendar.google.com/calendar/u/2?cid=bnVsbnVsc2V2ZW5AbWFpbGZlbmNlLmNvbQ]
+
 📅 **Google Appointment Meet:**[https://calendar.app.google/C1fEZjaUMHeEFH1u9]
+
 📆 **Book a Call (Calendly):** [https://calendly.com/branecode/s-roberts]
+
 📹 **Zoom Meeting:** [https://us05web.zoom.us/j/6701000210?pwd=XJxpWM205p17DBzL1AIfERvrhkD9rM.1]
+
 🎥 **Google Meet:** [[Your Google Meet Link](https://meet.google.com/osx-nsjw-qcx)]
 
 ---
