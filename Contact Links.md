@@ -12,7 +12,7 @@
 
 ## Social Presence
 🐦 **Twitter/X:** [https://x.com/NulNulSeven]  
-📷 **Instagram:** [Your Instagram Handle]  
+📷 **Instagram:** [https://www.instagram.com/nulnulseven/]  
 🎥 **YouTube:** [https://www.youtube.com/@NulNulSeven]  
 
 ## Schedule a Call
