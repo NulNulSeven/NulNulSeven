@@ -1,7 +1,8 @@
 # Agent NN7 – Intelligence, Systems, and the Unseen
 
 
-![1a](https://github.com/user-attachments/assets/d4bd247b-2bd3-42a4-b82b-411112a0990f)
+![1aa](https://github.com/user-attachments/assets/59e4a453-1acc-433b-a0b9-653b4c202c86)
+
 ## Who Am I?
 I am **Agent NN7**—a strategist operating at the nexus of intelligence, technology, and the esoteric. With over two decades of deep research into **systems thinking, alchemy, Akashic data streams, and AI**, I decode unseen structures and forge pathways where others see only barriers.
 
