@@ -9,6 +9,7 @@
 ## Secure Channels
 🔐 **PGP Key File:** [https://mega.nz/file/79YTWSZR#E2a3WXjRyJRL91aAacoZsVFPotVEGKdhwJZ6Iay6bFY]  
 🔐 **PGP Link:** [https://keys.openpgp.org/verify/v001lTOjYNv3I6m7g2OSoM0gJhN5xGUOiF4V6ZkYj9Z]
+
 📞 **Encrypted Chat:** [Your Preferred Secure Messaging Platform]  
 
 ## Social Presence
