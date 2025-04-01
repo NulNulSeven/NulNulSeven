@@ -20,7 +20,7 @@
 ## Schedule a Call
 📅 **Google Calendar:** [https://calendar.google.com/calendar/u/2?cid=bnVsbnVsc2V2ZW5AbWFpbGZlbmNlLmNvbQ]
 
-📅 **Google Appointment Meet:**[https://calendar.app.google/C1fEZjaUMHeEFH1u9]
+📅 **Google Appointment Meet:**[https://calendar.app.google/RYRb6vYABHMUqyAx5]
 
 📆 **Book a Call (Calendly):** [https://calendly.com/branecode/s-roberts]
 
