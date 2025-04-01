@@ -33,6 +33,16 @@
 
 📹 **Discord** [https://discord.gg/wwUTw2hn]
 
+## Support NN7
+
+Your support helps us continue to grow and develop exciting projects. If you'd like to contribute, feel free to donate via Ko-fi.
+
+[![Support on Ko-fi](https://ko-fi.com/img/donate_button.png)](https://ko-fi.com/nulnulseven)
+
+Any contribution is greatly appreciated!
+
+Thank you for your support! 🙏
+
 ---
 ### Get in Touch
 For consulting, research collaboration, or intelligence-based solutions, reach out via your preferred channel. Let’s unlock new possibilities.
