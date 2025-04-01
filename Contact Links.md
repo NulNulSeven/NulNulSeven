@@ -18,7 +18,7 @@
 
 
 ## Schedule a Call
-📅 **Google Calendar:** [https://calendar.google.com/calendar/u/2?cid=bnVsbnVsc2V2ZW5AbWFpbGZlbmNlLmNvbQ]
+📅 **Google Calendar:** [https://calendar.google.com/calendar/embed?src=nulnulseven%40mailfence.com&ctz=Europe%2FLondon]
 
 📅 **Google Appointment Meet:**[https://calendar.app.google/RYRb6vYABHMUqyAx5]
 
