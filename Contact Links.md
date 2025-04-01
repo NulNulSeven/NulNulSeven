@@ -14,7 +14,7 @@
 
 ## Social Presence
 🐦 **Twitter/X:** [https://x.com/NulNulSeven]  
-📷 **Instagram:** [INSTANT BAN - Wankers]  
+📷 **Instagram:** [INSTANT BAN - Wanker$]  
 🎥 **YouTube:** [https://www.youtube.com/@NulNulSeven]  
 
 
