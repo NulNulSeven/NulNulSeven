@@ -45,3 +45,6 @@ Thank you for your support! 🙏
 ---
 ### Get in Touch
 For consulting, research collaboration, or intelligence-based solutions, reach out via your preferred channel. Let’s unlock new possibilities.
+
+### On MATRIX ?
+**element:** [https://matrix.to/#/#JonDeePersonal:matrix.org]
