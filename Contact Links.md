@@ -32,6 +32,8 @@
 
 📹 **Discord** [https://discord.gg/wwUTw2hn]
 
+🔓 **Video Call** https://matrix.to/#/#007V:matrix.org
+
 ## Support NN7
 
 Your support helps us continue to grow and develop exciting projects. If you'd like to contribute, feel free to donate via Ko-fi.
