@@ -35,6 +35,6 @@ Thank you for your support! 🙏
 For consulting, research collaboration, or intelligence-based solutions, reach out via your preferred channel. Let’s unlock new possibilities.
 
 
-Contact Page - [[https://github.com/N![image1-1](https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20Links.md)]
+Contact Page - [https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20Links.md]
 
 ![image1-1](https://github.com/user-attachments/assets/8473a3f8-cb52-4921-b088-a0bd7233a892)
