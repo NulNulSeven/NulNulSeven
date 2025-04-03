@@ -1,3 +1,5 @@
+![image1-1](https://github.com/user-attachments/assets/75e4b13f-345e-4a48-93eb-bb265e25bd35)
+
 # Extended Computer-Brain Analogical Framework
 
 ## A Compartmentalized Model for Scientific Inquiry
