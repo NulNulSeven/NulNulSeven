@@ -4,7 +4,7 @@
 📧 **Email:** [nulnulseven@mailfence.com]  
 🌐 **Website:** [Your Website URL]  
 📡 **GitHub:** [https://github.com/NulNulSeven]  
-🔗 **LinkedIn:** [Your LinkedIn Profile Link]  
+🔗 **LinkedIn:** [#########]  
 
 ## Secure Channels
 🔐 **PGP Key File:** [https://mega.nz/file/79YTWSZR#E2a3WXjRyJRL91aAacoZsVFPotVEGKdhwJZ6Iay6bFY]  
