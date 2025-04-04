@@ -9,7 +9,7 @@
 ## Secure Channels
 🔐 **PGP Key File:** [https://mega.nz/file/79YTWSZR#E2a3WXjRyJRL91aAacoZsVFPotVEGKdhwJZ6Iay6bFY]  
 
-📞 **Encrypted Chat:** [Your Preferred Secure Messaging Platform]  
+📞 **Encrypted Chat:** [https://matrix.to/#/#JonDeePersonal:matrix.org]  
 
 ## Social Presence
 🐦 **Twitter/X:** [https://x.com/NulNulSeven]  
