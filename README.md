@@ -105,13 +105,17 @@ Contact Page - [https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20L
 
 For encrypted and confidential communications, please use the following channels:
 
-- **ProtonMail**  
-  [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:your_protonmail@example.com)  
-  *Secure email for sensitive information.*
+## 🛡️ Secure Communication Channels
 
-- **Signal Messenger**  
-  [![Signal](https://img.shields.io/badge/Signal-3A76F0?style=flat-square&logo=signal&logoColor=white)](https://signal.me/#p/your_signal_number)  
-  *End-to-end encrypted messaging.*
+For encrypted and confidential communications, please use the following channels:
+
+- **Mailfence**  
+  [![Mailfence](https://img.shields.io/badge/Mailfence-112F91?style=flat-square&logo=maildotru&logoColor=white)](mailto:your_mailfence@example.com)  
+  *Secure email suite with privacy-first principles.*
+
+- **Dropbox File Vault**  
+  [![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=dropbox&logoColor=white)](https://www.dropbox.com/request/yourcustomlink)  
+  *Use this encrypted file vault to securely drop documents, files, or intel.*
 
 ---
 
