@@ -73,7 +73,7 @@ For encrypted dialogue and private intelligence exchange:
   *Privacy-focused secure email system.*
 
 - **Dropbox File Vault**  
-  [![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=dropbox&logoColor=white)](https://www.dropbox.com/request/yourcustomlink)  
+  [![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=dropbox&logoColor=white)](https://www.dropbox.com/scl/fo/1nr225e0i46cb7roseihb/AJsLXL5P5NhOIpoaU8hiPXU?rlkey=tdyepnbxvzoro9ubo97bs0913&st=g0h2cpkb&dl=0)  
   *Encrypted document delivery point.*
 
 ---
