@@ -105,10 +105,6 @@ Contact Page - [https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20L
 
 For encrypted and confidential communications, please use the following channels:
 
-## 🛡️ Secure Communication Channels
-
-For encrypted and confidential communications, please use the following channels:
-
 - **Mailfence**  
   [![Mailfence](https://img.shields.io/badge/Mailfence-112F91?style=flat-square&logo=maildotru&logoColor=white)](mailto:your_mailfence@example.com)  
   *Secure email suite with privacy-first principles.*
