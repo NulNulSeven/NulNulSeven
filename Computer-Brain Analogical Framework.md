@@ -53,3 +53,4 @@ flowchart TD
     CORT -.-> |"Analogous to"| MEM
     BS -.-> |"Analogous to"| IO
     PNS -.-> |"Analogous to"| BUS
+![Screenshot 2024-11-30 at 13 54 09](https://github.com/user-attachments/assets/082cefe1-d861-4fe0-a496-e93c620ba509)
