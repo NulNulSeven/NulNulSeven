@@ -94,6 +94,80 @@ For encrypted dialogue, collaboration, or consultancy:
 
 Contact Page - [https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20Links.md]
 
+# 📡 Contact Agent NN7
+
+> **"Signal clarity ensures mission success."**  
+> — *Agent NN7*
+
+---
+
+## 🛡️ Secure Communication Channels
+
+For encrypted and confidential communications, please use the following channels:
+
+- **ProtonMail**  
+  [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:your_protonmail@example.com)  
+  *Secure email for sensitive information.*
+
+- **Signal Messenger**  
+  [![Signal](https://img.shields.io/badge/Signal-3A76F0?style=flat-square&logo=signal&logoColor=white)](https://signal.me/#p/your_signal_number)  
+  *End-to-end encrypted messaging.*
+
+---
+
+## 🌐 Professional Networks
+
+Connect with me on professional and collaborative platforms:
+
+- **LinkedIn**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+  *Professional network and collaborations.*
+
+- **GitHub**  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
+  *Explore my projects and contributions.*
+
+---
+
+## 🕵️‍♂️ Anonymous Tips
+
+For anonymous information or tips, please use the following method:
+
+- **SecureDrop**  
+  [![SecureDrop](https://img.shields.io/badge/SecureDrop-FF6600?style=flat-square&logo=tor&logoColor=white)](https://securedrop.example.com)  
+  *Anonymously submit documents and messages.*
+
+---
+
+## 🧭 General Inquiries
+
+For general questions or non-sensitive communications:
+
+- **Email**  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)  
+  *Standard email communications.*
+
+- **Twitter**  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+  *Quick updates and public interactions.*
+
+---
+
+## ⚠️ Communication Protocols
+
+- **Response Time**: I aim to respond within 48 hours. For urgent matters, please indicate the priority in your message.
+- **Encryption**: For sensitive information, always use ProtonMail or Signal to ensure end-to-end encryption.
+- **Anonymity**: When using SecureDrop, ensure you're accessing the link through the Tor network for maximum anonymity.
+
+---
+
+*Your security is paramount. Please choose the appropriate channel based on the sensitivity of your message.*
+
+---
+
+**Agent NN7**  
+*Defenders of the Domain | Warp Intelligence | NUL SECTOR OPS*
+
 
 ![430081401-75e4b13f-345e-4a48-93eb-bb265e25bd35](https://github.com/user-attachments/assets/4adbadae-5fc0-4e34-a7fc-fe0583502835)
 
