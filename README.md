@@ -128,14 +128,14 @@ Connect with me on professional and collaborative platforms:
   *Explore my projects and contributions.*
 
 ---
-
 ## 🕵️‍♂️ Anonymous Tips
 
-For anonymous information or tips, please use the following method:
+For anonymous information or intelligence drops, please use the following secure upload channel:
 
-- **SecureDrop**  
-  [![SecureDrop](https://img.shields.io/badge/SecureDrop-FF6600?style=flat-square&logo=tor&logoColor=white)](https://securedrop.example.com)  
-  *Anonymously submit documents and messages.*
+- **Mega Uploads**  
+  [![Mega](https://img.shields.io/badge/Mega-CC0000?style=flat-square&logo=mega&logoColor=white)](https://mega.nz/folder/yourcustomlink)  
+  *Encrypted cloud drop point for anonymous file submissions.*
+
 
 ---
 
