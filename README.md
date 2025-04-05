@@ -69,7 +69,7 @@ My systems move like you do: **living**, **learning**, **evolving**.
 For encrypted dialogue and private intelligence exchange:
 
 - **Mailfence**  
-  [![Mailfence](https://img.shields.io/badge/Mailfence-112F91?style=flat-square&logo=maildotru&logoColor=white)](mailto:your_mailfence@example.com)  
+  [![Mailfence](https://img.shields.io/badge/Mailfence-112F91?style=flat-square&logo=maildotru&logoColor=white)](mailto:nulnulseven@mailfence.com)  
   *Privacy-focused secure email system.*
 
 - **Dropbox File Vault**  
