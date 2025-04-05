@@ -86,13 +86,24 @@ For encrypted dialogue, collaboration, or consultancy:
 **📡 Channel open.** Send signal, receive structure.
 
 ---
+# 🛰️ Agent NN7  
+`Defenders of the Domain | Warp Intelligence Division | NUL SECTOR OPS`
 
-**Agent NN7**  
-`Defenders of the Domain | Warp Intelligence | NUL SECTOR OPS`
+> *"Precision is the highest form of power. Secrecy is the first shield of sovereignty."*  
+> — Operative Codex Fragment 7.7
 
+---
 
+## 🧭 Contact Navigation  
+**Engage the Network. Operate with Intention.**
 
-Contact Page - [https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20Links.md]
+🔗 [**Contact Channels: Access Portal** →](https://github.com/NulNulSeven/NulNulSeven/blob/main/Contact%20Links.md)  
+_Encrypted links, secured correspondence, and intel drop-points. Only for those with eyes to see._
+
+---
+
+> **This profile operates in quantum liminality. Communication is a threshold. Choose your frequency.**
+
 
 # 📡 Contact Agent NN7
 
