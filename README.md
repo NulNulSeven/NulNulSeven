@@ -92,7 +92,7 @@ For encrypted dialogue and private intelligence exchange:
 For zero-identity file transfer:
 
 - **Mega Uploads**  
-  [![Mega](https://img.shields.io/badge/Mega-CC0000?style=flat-square&logo=mega&logoColor=white)](https://mega.nz/folder/yourcustomlink)  
+  [![Mega](https://img.shields.io/badge/Mega-CC0000?style=flat-square&logo=mega&logoColor=white)](https://mega.nz/folder/zwhUUTxa#CyLF3OoLB-tnMXSDiGme7A)  
   *Secure anonymous drop point.*
 
 ---
@@ -100,9 +100,9 @@ For zero-identity file transfer:
 ### 📥 General Inquiries
 
 - **Email**  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nulnulseven@mailfence.com)  
 - **Twitter**  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nulnulseven)
 
 ---
 
