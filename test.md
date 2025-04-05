@@ -1,79 +1,83 @@
 graph TD
-    CORE[Extended Computer-Brain Analogical Core]
+    A[Extended Computer-Brain Analogical Core]
 
     subgraph Computer System Architecture
         C1[Motherboard Core]
-        C2[Central Processing Unit (CPU)]
-        C3[Northbridge & Southbridge Controllers]
-        C4[BIOS Firmware Node]
-        C5[Bus & Peripheral Interface]
+        C2[CPU: Processing Unit]
+        C3[Northbridge Controller]
+        C4[Southbridge Controller]
+        C5[BIOS Firmware]
+        C6[Bus & I/O Interface]
     end
 
     subgraph Biological Neural Framework
         B1[Central Nervous System]
-        B2[Diencephalon Array]
-        B3[Cerebral Cortex Processor]
-        B4[Brainstem I/O Gateway]
-        B5[Peripheral Neural Network]
+        B2[Thalamus Complex]
+        B3[Hypothalamus Node]
+        B4[Epithalamus Gate]
+        B5[Cerebral Cortex]
+        B6[Peripheral Nervous System]
     end
 
-    subgraph Analogical Relays
-        A1[CPU ↔ Thalamus Map]
-        A2[Northbridge ↔ Hypothalamus Link]
-        A3[Southbridge ↔ Epithalamus Channel]
-        A4[Memory ↔ Cortex Bridge]
-        A5[Bus ↔ PNS Bus Line]
+    subgraph Analogical Mapping Layer
+        M1[CPU ↔ Thalamus]
+        M2[Northbridge ↔ Hypothalamus]
+        M3[Southbridge ↔ Epithalamus]
+        M4[Memory ↔ Cortex]
+        M5[Bus ↔ Peripheral NS]
     end
 
     subgraph Inputs
-        I1[User Input Signals]
-        I2[Environmental Sensory Data]
-        I3[System Boot/Power Events]
+        I1[User Input Signal]
+        I2[Sensory Environment Data]
+        I3[System Boot Power Trigger]
     end
 
     subgraph Outputs
-        O1[Processed Thought Patterns]
-        O2[Motor/Peripheral Commands]
-        O3[Behavioral Execution Pathways]
+        O1[Processed Thought Pattern]
+        O2[Motor Output Command]
+        O3[Externalized Behavior Path]
     end
 
     %% Core connections
-    CORE --> C1
-    CORE --> B1
-    CORE --> A1
-    CORE --> I1
-    CORE --> O1
+    A --> C1
+    A --> B1
+    A --> M1
+    A --> I1
+    A --> O1
 
-    %% Inputs feeding system
-    I1 --> C2
-    I2 --> B2
-    I3 --> C4
-
-    %% Computer structure
+    %% Computer Architecture
     C1 --> C2
     C1 --> C3
     C1 --> C4
     C1 --> C5
+    C1 --> C6
 
-    %% Brain structure
+    %% Neural Framework
     B1 --> B2
     B1 --> B3
     B1 --> B4
     B1 --> B5
+    B1 --> B6
 
-    %% Analogical bridges
-    C2 --> A1 --> B2
-    C3 --> A2 --> B2
-    C3 --> A3 --> B2
-    C5 --> A5 --> B5
-    C4 --> A4 --> B3
+    %% Inputs
+    I1 --> C2
+    I2 --> B2
+    I3 --> C5
+
+    %% Analogical Mapping
+    C2 --> M1 --> B2
+    C3 --> M2 --> B3
+    C4 --> M3 --> B4
+    C5 --> M4 --> B5
+    C6 --> M5 --> B6
 
     %% Outputs
-    B3 --> O1
-    B5 --> O2
+    B5 --> O1
+    B6 --> O2
     B4 --> O3
 
-    %% Final feedback loop
-    O1 --> CORE
-    O2 --> CORE
-    O3 --> CORE
+    %% Feedback loop
+    O1 --> A
+    O2 --> A
+    O3 --> A
